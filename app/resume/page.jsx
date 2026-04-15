@@ -51,13 +51,13 @@ const experience = {
   items: [
     {
       company: " Boehringer Ingelheim",
-      position: "Data Analyst Co-op",
+      position: "Business Intelligence Engineer Co-op",
       duration: "Feb 2025 - Jun 2025",
       description: "I worked on shaping data into clear and reliable reporting. That included redesigning Tableau dashboards with analysts, building DBT and SQL models in Snowflake, and writing Python and SQL tests to automate business rules. I also created Power BI and Excel governance reports to keep access, usage, and data sources aligned. I strengthened data governance by documenting rules and improving access controls. Overall, I focus on making data organized, trustworthy, and easy to work with, consistently delivering production-ready outputs that teams trust every day.",
     },
     {
       company: "LTIMindtree",
-      position: "Data Analyst",
+      position: "Business Intelligence Engineer",
       duration: "2021 - 2023",
       description: "I work on building reliable data pipelines that move and transform data at scale. Most of my work revolves around SQL, AWS, and PySpark, where I handle ingestion, cleaning, and modeling across different cloud sources. I focus on making pipelines fast, simple, and dependable by automating validation, optimizing transformations, and structuring data so teams can actually use it. Over time, I’ve built out analytics ready layers, automated workflows with Python, and supported teams with clean, consistent datasets that power reporting and product decisions.",
     },

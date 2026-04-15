@@ -18,7 +18,7 @@ const Home = () => {
               Hello I'm <br /> <span className="text-accent">Dev Mithunisvar</span>
             </h1>
             <p className="max-w-[550px] mb-9 text-white/80">
-              Experienced Data Engineer and Machine Learning enthusiast with a strong background in SQL, Python, and ETL/ELT techniques. Skilled in developing Tableau dashboards, ETL pipelines and integrating machine learning solutions to drive insights and optimize processes.
+              Experienced Business Intelligence Engineer enthusiast with a strong background in SQL, Python, and ETL/ELT techniques. Skilled in developing Tableau dashboards, ETL pipelines and integrating machine learning solutions to drive insights and optimize processes.
             </p>
             {/* btn and socials */}
             <div className="flex flex-row items-center gap-8">
